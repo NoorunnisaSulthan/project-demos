@@ -1,5 +1,5 @@
 # project-demos
-Check out demos of my projects by clicking on these links
+Check out demos of my web development personal projects by clicking on these links
 
 ### Full Stack Recipe Website (Mini) using express.js, MongoDB, HTML, CSS
 https://www.youtube.com/watch?v=c2XMalNv1tU
